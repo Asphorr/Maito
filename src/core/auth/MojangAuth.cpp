@@ -1,5 +1,3 @@
-// src/core/auth/MojangAuth.cpp
-
 #include "MojangAuth.h"
 #include <curl/curl.h>
 #include <json/json.h>
